@@ -1,2 +1,1 @@
-![](https://github.com/jruaaa/github-stats/blob/master/generated/overview.svg)
-
+Hi! I'm Joey, a Mechanical Engineering student at Purdue with an interest in autonomous systems, controls, and robotics and a minor in economics. I've done a lot of cool things from designing a subterranean robot squid for the USDA to working on computational behavioral economics models for Wall Street researchers. I'll be working on thermal solutions for AMD for the summer of 2025 but if you're working on cool stuff and have an opening in the future LMK!
